@@ -16,3 +16,4 @@ data/
 .jupyter/
 .local/
 .npm/
+.cache/
